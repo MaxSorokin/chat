@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "250153930579",
+    "firebase_url": "https://chat-gosha.firebaseio.com",
+    "project_id": "chat-gosha",
+    "storage_bucket": "chat-gosha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250153930579:android:6f42f82970fdab8d8a1ba6",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250153930579-uungr2bvclcqssa9gd237d5cdk4mvoni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn_mIs9qs_myum4AqPMHzdceHBGwRRbHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250153930579-uungr2bvclcqssa9gd237d5cdk4mvoni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
